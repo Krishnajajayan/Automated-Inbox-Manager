@@ -43,6 +43,38 @@ It uses a trained `RandomForestClassifier` on TF-IDF features extracted from ema
 
 ---
 
+##  Setup Instructions
+
+1. **Clone the repository** or copy the files to your local system.
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+---
+
+##  Run The App
+
+```python mails.py```
+
+---
+
+##  Access The UI
+
+- The Gradio app will launch in your browser automatically.
+
+- Alternatively, copy the local or shareable link from the terminal.
+
+---
+
+##  Dependencies
+
+- gradio           # for creating the interactive UI
+- pandas           # for handling the dataset
+- scikit-learn     # for model training, vectorization, and prediction
+
+---
+
 ##  Sample Emails to Try
 
 | Subject | Body | Expected Output |
