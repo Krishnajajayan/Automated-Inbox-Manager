@@ -50,7 +50,7 @@ It uses a trained `RandomForestClassifier` on TF-IDF features extracted from ema
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-   
+   ```
 ---
 
 ##  Run The App
