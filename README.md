@@ -55,7 +55,8 @@ It uses a trained `RandomForestClassifier` on TF-IDF features extracted from ema
 
 ##  Run The App
 
-```python mails.py```
+```bash
+python agent.py
 
 ---
 
